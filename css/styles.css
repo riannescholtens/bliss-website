@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+	background-color: #E0FFE0;
+	color: #004000;
+	font-family: Inter
+}
+.jumbotron {
+	background-color: beige;
+}
+h3, .intro {
+	text-decoration: underline
+}
+.alert-heading {
+	background-color: whitesmoke; 
+}
+h4, .elephant {
+	color: orangered;
+	text-decoration: underline;
+}
+
