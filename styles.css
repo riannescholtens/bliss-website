@@ -6,7 +6,7 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-div.container {
+.container {
 	color: #000000;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -26,4 +26,8 @@ p {
 }
 .jumbotron {
 	color: #000000;
+}
+
+.header3 {
+	font-family: 'Open Sans Condensed', sans-serif;
 }
