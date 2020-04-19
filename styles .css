@@ -1,4 +1,9 @@
 @charset "utf-8";
+* {
+margin: 0;
+padding: 0;
+}
+
 h1 {
 font-family: 'Barlow', sans-serif;
 }
@@ -9,11 +14,13 @@ font-family: 'Barlow', sans-serif;
 
 p {
 font-family: 'Barlow', sans-serif;
+
 	
 }
 
 h3{
-font-family: 'Barlow',  "sans-serif";
+font-family: 'Barlow', "sans-serif";
+
 }
 
 
