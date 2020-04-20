@@ -1,0 +1,103 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ * {
+	margin: 0;
+	padding: 0;
+}
+
+navbar navbar-expand-lg navbar-light{
+	align-content: space-between;
+	align-items: stretch;
+	align-self: baseline
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+h2 {
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+h3{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+h4{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+p {
+	font-size: 50px;
+	color: rgba(255,255,255,1.00);
+	background-size: cover;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+body {
+    background-repeat: center;
+	background-size: cover;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+}
+
+p2{
+	font-size: 18px;
+	color: rgba(255,255,255,);
+	background-size: cover;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+    
+	
+	}
+
+p3{
+	font-size: 18px;
+	color: rgba(255,255,255,);
+	background-size: cover;
+	text-align: center;
+	font-family: 'Barlow', sans-serif;
+	
+
+}
+.video1{
+	align-content: center
+	
+}
+
+
+.something {
+    background-color: #85C2E8;
+    width: 103px;
+    border-radius: 20px;
+    height: 63px;
+    font-size: 32pt;
+    color: #000000;
+    text-align: center;
+    line-height: 55px;
+	font-family: 'Barlow', sans-serif;
+}
+
+div.container {
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.jumbotron {
+	color: #000000;
+}
