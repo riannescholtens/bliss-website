@@ -1,56 +1,36 @@
+@charset "UTF-8";
 * {
 	margin: 0;
 	padding: 0;
 }
 
-h1 {
-	font-size: 100px;
-	text-align: center;
-	font-family: 'Amatic SC', cursive
+body {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-family: 'Barlow', sans-serif;
 }
 
-h2 {
-	font-size: 60px;
-	text-align: center;
-	font-family: 'Amatic SC', cursive
+.container {
+	color: #000000;
+	font-family: 'Barlow', sans-serif;
 }
 
+h3 {
+	font-family: 'Barlow' sans-serif;
+	color: #000000;
+	margin-left: 0%;
+}
 
 p {
-	font-size: 50px;
-	color: rgba(255,255,255,1.00);
-	background-image: url(../images/palm.jpg);
-	background-size: cover;
-	text-align: center;
-	font-family: 'Amatic SC', cursive
+	font-family: 'Barlow', sans-serif;
+	color: #000000;
 }
 
-body {
-    background-image: url(../images/pattern.jpg);
-    background-repeat: center;
-	background-size: cover;
-	text-align: center;
-}
-.something {
-    background-color: #85C2E8;
-    width: 103px;
-    border-radius: 20px;
-    height: 63px;
-    font-size: 32pt;
-    color: #000000;
-    text-align: center;
-    line-height: 55px;
-	font-family: 'Amatic SC', cursive;
+.carousel {
+	margin-top: 5%;
 }
 
-div.container {
-	text-align: center;
-}
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
+.jumbotron {
+	color: #000000;
 }
 
